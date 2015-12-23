@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="details.xsl"?>
+<gpx
+ version="1.1"
+ creator="My Tracks running on PC36100"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+<trk>
+<name><![CDATA[2011-10-17 22:15]]></name>
+<desc><![CDATA[]]></desc>
+<number>29</number>
+<extensions><topografix:color>c0c0c0</topografix:color></extensions>
+<trkseg>
+<trkpt lat="34.80425" lon="135.45524">
+<ele>96</ele>
+<time>2011-10-17T13:15:34Z</time>
+</trkpt>
+<trkpt lat="34.80564" lon="135.45466">
+<ele>101</ele>
+<time>2011-10-17T13:16:10Z</time>
+</trkpt>
+<trkpt lat="34.80651" lon="135.45349">
+<ele>89</ele>
+<time>2011-10-17T13:16:43Z</time>
+</trkpt>
+<trkpt lat="34.80681" lon="135.45287">
+<ele>119</ele>
+<time>2011-10-17T13:17:16Z</time>
+</trkpt>
+<trkpt lat="34.8068" lon="135.45274">
+<ele>110</ele>
+<time>2011-10-17T13:17:28Z</time>
+</trkpt>
+<trkpt lat="34.8069" lon="135.45265">
+<ele>120</ele>
+<time>2011-10-17T13:17:47Z</time>
+</trkpt>
+<trkpt lat="34.8067" lon="135.45268">
+<ele>143</ele>
+<time>2011-10-17T13:18:21Z</time>
+</trkpt>
+<trkpt lat="34.80682" lon="135.45266">
+<ele>152</ele>
+<time>2011-10-17T13:18:54Z</time>
+</trkpt>
+<trkpt lat="34.80819" lon="135.45307">
+<ele>99</ele>
+<time>2011-10-17T13:20:35Z</time>
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="34.81014" lon="135.45358">
+<ele>83</ele>
+<time>2011-10-17T13:21:08Z</time>
+</trkpt>
+<trkpt lat="34.81055" lon="135.45271">
+<ele>73</ele>
+<time>2011-10-17T13:21:36Z</time>
+</trkpt>
+<trkpt lat="34.81042" lon="135.45126">
+<ele>84</ele>
+<time>2011-10-17T13:22:08Z</time>
+</trkpt>
+<trkpt lat="34.81019" lon="135.45002">
+<ele>89</ele>
+<time>2011-10-17T13:22:36Z</time>
+</trkpt>
+<trkpt lat="34.81021" lon="135.45013">
+<ele>82</ele>
+<time>2011-10-17T13:23:01Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
