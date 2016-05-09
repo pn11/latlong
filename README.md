@@ -11,4 +11,4 @@
 - Make graph of velocity, elevation, etc.
 
 ## My foot print
-See <footprint.md>.
+See [footprint.md](footprint.md).
