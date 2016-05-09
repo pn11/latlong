@@ -33,9 +33,9 @@
 
 ### 仙台学会
 
--[その1](geojson/2016-03-20T04_01_49Z.geojson)
--[その2](geojson/2016-03-21T04_41_57Z.geojson)
--[その3](geojson/2016-03-22T04_29_23Z.geojson)
+- [その1](geojson/2016-03-20T04_01_49Z.geojson)
+- [その2](geojson/2016-03-21T04_41_57Z.geojson)
+- [その3](geojson/2016-03-22T04_29_23Z.geojson)
 
 ### その他
 
