@@ -66,3 +66,9 @@
 
 - [甲山登山](geojson/2016-05-01T02_08_43Z.geojson)
 - [キラズ登山](geojson/2016-05-08T01_02_58Z.geojson)
+
+## Test of embedding
+
+<script src="https://embed.github.com/view/geojson/pn11/latlong/master/geojson/2016-05-08T01_02_58Z.geojson>"></script>
+
+- [Mapping geoJSON files on GitHub - User Documentation](https://help.github.com/articles/mapping-geojson-files-on-github/)
