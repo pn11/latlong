@@ -69,6 +69,10 @@
 
 ## Test of embedding
 
+GFM は対応していないようなので、[こっち](http://pn11.github.io/climbing.html)に載せてみた。
+
+```html
 <script src="https://embed.github.com/view/geojson/pn11/latlong/master/geojson/2016-05-08T01_02_58Z.geojson>"></script>
+```
 
 - [Mapping geoJSON files on GitHub - User Documentation](https://help.github.com/articles/mapping-geojson-files-on-github/)
