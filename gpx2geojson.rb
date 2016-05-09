@@ -13,7 +13,12 @@ ls = `ls -1 #{gpxdir}`
 ls.lines{|line| 
     in_file_name = "#{gpxdir}/#{line.chomp}"
     change_name(in_file_name)
+}
 
+
+# needs to list once again after changing file name
+ls = `ls -1 #{gpxdir}`
+ls.lines{|line|
     csv_file_name = in_file_name.gsub("gpx", "csv")
     geojson_file_name = in_file_name.gsub("gpx", "geojson")
     if (!File.exist?(geojson_file_name))

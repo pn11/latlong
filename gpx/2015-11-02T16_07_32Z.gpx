@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Yamatabi logger for Android"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:chizroid="http://www.chizroid.info/ns/gpx"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+ http://www.chizroid.info/ns/gpx http://www.chizroid.info/ns/gpx.xsd">
+<trk>
+<name><![CDATA[2015-11-03 01:07:32]]></name>
+<trkseg>
+<trkpt lat="34.672836" lon="135.19368"><ele>21</ele><time>2015-11-02T16:07:32Z</time></trkpt>
+<trkpt lat="34.358707" lon="134.07101"><ele>-5</ele><time>2015-11-02T19:52:55Z</time></trkpt>
+<trkpt lat="34.354954" lon="134.07297"><ele>67</ele><time>2015-11-02T20:02:54Z</time></trkpt>
+<trkpt lat="34.35478" lon="134.07303"><ele>-36</ele><time>2015-11-02T20:12:53Z</time></trkpt>
+<trkpt lat="34.354713" lon="134.0732"><ele>21</ele><time>2015-11-02T20:22:51Z</time></trkpt>
+<trkpt lat="34.35484" lon="134.07358"><ele>1</ele><time>2015-11-02T20:52:58Z</time></trkpt>
+<trkpt lat="34.35728" lon="134.07326"><ele>15</ele><time>2015-11-02T21:02:52Z</time></trkpt>
+<trkpt lat="34.359924" lon="134.07297"><ele>31</ele><time>2015-11-02T21:03:58Z</time></trkpt>
+<trkpt lat="34.455276" lon="134.32074"><ele>-20</ele><time>2015-11-02T22:03:56Z</time></trkpt>
+<trkpt lat="34.45568" lon="134.32213"><ele>-15</ele><time>2015-11-02T22:13:49Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
