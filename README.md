@@ -9,3 +9,6 @@
 ## To do
 
 - Make graph of velocity, elevation, etc.
+
+## My foot print
+See <footprint.md>.
