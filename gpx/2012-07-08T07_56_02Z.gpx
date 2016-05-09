@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<gpx creator="Mobile Action http://www.mobileaction.com/" version="1.0" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<trk>
+<name>20120708-182009(3)</name>
+<desc>Color:004000ff</desc>
+<trkseg>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:02Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:07Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:12Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:17Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:22Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:27Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:32Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:37Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:42Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:47Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:52Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:56:57Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:57:02Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:57:07Z</time>
+<speed>0.00</speed>
+</trkpt>
+<trkpt lat="34.805756" lon="135.454437">
+<ele>46.289997</ele>
+<time>2012-07-08T07:57:12Z</time>
+<speed>0.00</speed>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
