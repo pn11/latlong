@@ -9,6 +9,7 @@
 ## To do
 
 - Make graph of velocity, elevation, etc.
+- Treatment of waypoints and routes in GPX.
 
 ## My foot print
 See [footprint.md](footprint.md).
