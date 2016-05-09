@@ -26,7 +26,7 @@ def change_name(in_file_name)
 
     if time. == nil
         puts "No time infomation."
-        exit
+        return -1
     end
 
     time.gsub!(":","_")
