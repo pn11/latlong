@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4F25BAAD1CE0677600911702 /* change_name.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = change_name.rb; sourceTree = "<group>"; };
+		4F25BAAE1CE0677600911702 /* gpx2csv.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = gpx2csv.rb; sourceTree = "<group>"; };
+		4F25BAAF1CE0677600911702 /* gpx2geojson.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = gpx2geojson.rb; sourceTree = "<group>"; };
+		4F25BAB01CE06A4F00911702 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4F25BAB21CE06A7F00911702 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		4F25BAA51CE0670D00911702 = {
+			isa = PBXGroup;
+			children = (
+				4F25BAAD1CE0677600911702 /* change_name.rb */,
+				4F25BAAE1CE0677600911702 /* gpx2csv.rb */,
+				4F25BAAF1CE0677600911702 /* gpx2geojson.rb */,
+				4F25BAB01CE06A4F00911702 /* README.md */,
+				4F25BAB21CE06A7F00911702 /* .gitignore */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4F25BAA61CE0670D00911702 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 4F25BAA91CE0670D00911702 /* Build configuration list for PBXProject "latlong" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4F25BAA51CE0670D00911702;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4F25BAAA1CE0670D00911702 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4F25BAAB1CE0670D00911702 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4F25BAA91CE0670D00911702 /* Build configuration list for PBXProject "latlong" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4F25BAAA1CE0670D00911702 /* Debug */,
+				4F25BAAB1CE0670D00911702 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4F25BAA61CE0670D00911702 /* Project object */;
+}

@@ -3,102 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          135.45524,
-          34.80425
+          [
+            135.45524,
+            34.80425
+          ],
+          [
+            135.45466,
+            34.80564
+          ],
+          [
+            135.45349,
+            34.80651
+          ],
+          [
+            135.45287,
+            34.80681
+          ],
+          [
+            135.45274,
+            34.8068
+          ],
+          [
+            135.45265,
+            34.8069
+          ],
+          [
+            135.45268,
+            34.8067
+          ],
+          [
+            135.45266,
+            34.80682
+          ],
+          [
+            135.45307,
+            34.80819
+          ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45466,
-          34.80564
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45349,
-          34.80651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45287,
-          34.80681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45274,
-          34.8068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45265,
-          34.8069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45268,
-          34.8067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45266,
-          34.80682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.45307,
-          34.80819
-        ]
-      }
+      },
+      "properties": {}
     }
   ]
 }
