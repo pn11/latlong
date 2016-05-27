@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name><![CDATA[2015-11-03 01:07:32]]></name>
+<description><![CDATA[山旅ロガー：2015-11-03 01:07～2015-11-03 07:13]]></description>
+<Placemark>
+ <name>1</name>
+ <description>2015-11-03 01:07:32 1020.98hPa</description>
+ <TimeStamp><when>2015-11-02T16:07:32.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1020.98</value></Data></ExtendedData>
+ <Point><coordinates>135.19368,34.672836,21</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>2</name>
+ <description>2015-11-03 04:52:55 1023.21hPa</description>
+ <TimeStamp><when>2015-11-02T19:52:55.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.21</value></Data></ExtendedData>
+ <Point><coordinates>134.07101,34.358707,-5</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>3</name>
+ <description>2015-11-03 05:02:54 1023.38hPa</description>
+ <TimeStamp><when>2015-11-02T20:02:54.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.38</value></Data></ExtendedData>
+ <Point><coordinates>134.07297,34.354954,67</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>4</name>
+ <description>2015-11-03 05:12:53 1023.93hPa</description>
+ <TimeStamp><when>2015-11-02T20:12:53.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.93</value></Data></ExtendedData>
+ <Point><coordinates>134.07303,34.35478,-36</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>5</name>
+ <description>2015-11-03 05:22:51 1023.99hPa</description>
+ <TimeStamp><when>2015-11-02T20:22:51.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.99</value></Data></ExtendedData>
+ <Point><coordinates>134.0732,34.354713,21</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>6</name>
+ <description>2015-11-03 05:52:58 1024.43hPa</description>
+ <TimeStamp><when>2015-11-02T20:52:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1024.43</value></Data></ExtendedData>
+ <Point><coordinates>134.07358,34.35484,1</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>7</name>
+ <description>2015-11-03 06:02:52 1024.51hPa</description>
+ <TimeStamp><when>2015-11-02T21:02:52.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1024.51</value></Data></ExtendedData>
+ <Point><coordinates>134.07326,34.35728,15</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>8</name>
+ <description>2015-11-03 06:03:58 1024.18hPa</description>
+ <TimeStamp><when>2015-11-02T21:03:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1024.18</value></Data></ExtendedData>
+ <Point><coordinates>134.07297,34.359924,31</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>9</name>
+ <description>2015-11-03 07:03:56 1025.05hPa</description>
+ <TimeStamp><when>2015-11-02T22:03:56.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1025.05</value></Data></ExtendedData>
+ <Point><coordinates>134.32074,34.455276,-20</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>10</name>
+ <description>2015-11-03 07:13:49 1026.7hPa</description>
+ <TimeStamp><when>2015-11-02T22:13:49.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1026.7</value></Data></ExtendedData>
+ <Point><coordinates>134.32213,34.45568,-15</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

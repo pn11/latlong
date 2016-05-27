@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name><![CDATA[2015-10-25 19:07:15]]></name>
+<description><![CDATA[山旅ロガー：2015-10-25 19:07～2015-10-25 19:20]]></description>
+<Placemark>
+ <name>1</name>
+ <description>2015-10-25 19:07:15 1018.5hPa</description>
+ <TimeStamp><when>2015-10-25T10:07:15.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1018.5</value></Data></ExtendedData>
+ <Point><coordinates>135.23224,34.718086,67</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>2</name>
+ <description>2015-10-25 19:07:29 1018.49hPa</description>
+ <TimeStamp><when>2015-10-25T10:07:29.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1018.49</value></Data></ExtendedData>
+ <Point><coordinates>135.23225,34.71808,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>3</name>
+ <description>2015-10-25 19:07:42 1018.53hPa</description>
+ <TimeStamp><when>2015-10-25T10:07:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1018.53</value></Data></ExtendedData>
+ <Point><coordinates>135.2323,34.718033,65</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>4</name>
+ <description>2015-10-25 19:08:03 1018.96hPa</description>
+ <TimeStamp><when>2015-10-25T10:08:03.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1018.96</value></Data></ExtendedData>
+ <Point><coordinates>135.23291,34.717674,58</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>5</name>
+ <description>2015-10-25 19:08:22 1019.18hPa</description>
+ <TimeStamp><when>2015-10-25T10:08:22.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1019.18</value></Data></ExtendedData>
+ <Point><coordinates>135.23314,34.71705,44</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>6</name>
+ <description>2015-10-25 19:08:39 1019.51hPa</description>
+ <TimeStamp><when>2015-10-25T10:08:39.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1019.51</value></Data></ExtendedData>
+ <Point><coordinates>135.23375,34.716866,36</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>7</name>
+ <description>2015-10-25 19:08:55 1019.74hPa</description>
+ <TimeStamp><when>2015-10-25T10:08:55.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1019.74</value></Data></ExtendedData>
+ <Point><coordinates>135.23454,34.717106,33</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>8</name>
+ <description>2015-10-25 19:09:10 1019.94hPa</description>
+ <TimeStamp><when>2015-10-25T10:09:10.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1019.94</value></Data></ExtendedData>
+ <Point><coordinates>135.23544,34.717308,31</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>9</name>
+ <description>2015-10-25 19:09:21 1019.93hPa</description>
+ <TimeStamp><when>2015-10-25T10:09:21.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1019.93</value></Data></ExtendedData>
+ <Point><coordinates>135.23584,34.717453,36</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>10</name>
+ <description>2015-10-25 19:09:36 1020.18hPa</description>
+ <TimeStamp><when>2015-10-25T10:09:36.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1020.18</value></Data></ExtendedData>
+ <Point><coordinates>135.23674,34.717686,43</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>11</name>
+ <description>2015-10-25 19:09:54 1020.29hPa</description>
+ <TimeStamp><when>2015-10-25T10:09:54.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1020.29</value></Data></ExtendedData>
+ <Point><coordinates>135.2376,34.717823,38</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>12</name>
+ <description>2015-10-25 19:10:09 1020.6hPa</description>
+ <TimeStamp><when>2015-10-25T10:10:09.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1020.6</value></Data></ExtendedData>
+ <Point><coordinates>135.23805,34.71784,47</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>13</name>
+ <description>2015-10-25 19:10:23 1021.01hPa</description>
+ <TimeStamp><when>2015-10-25T10:10:23.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.01</value></Data></ExtendedData>
+ <Point><coordinates>135.23825,34.717384,39</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>14</name>
+ <description>2015-10-25 19:10:39 1021.15hPa</description>
+ <TimeStamp><when>2015-10-25T10:10:39.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.15</value></Data></ExtendedData>
+ <Point><coordinates>135.23907,34.71754,30</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>15</name>
+ <description>2015-10-25 19:10:55 1021.35hPa</description>
+ <TimeStamp><when>2015-10-25T10:10:55.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.35</value></Data></ExtendedData>
+ <Point><coordinates>135.2401,34.7179,31</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>16</name>
+ <description>2015-10-25 19:11:11 1021.39hPa</description>
+ <TimeStamp><when>2015-10-25T10:11:11.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.39</value></Data></ExtendedData>
+ <Point><coordinates>135.24042,34.71784,31</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>17</name>
+ <description>2015-10-25 19:11:24 1021.45hPa</description>
+ <TimeStamp><when>2015-10-25T10:11:24.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.45</value></Data></ExtendedData>
+ <Point><coordinates>135.24052,34.717815,32</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>18</name>
+ <description>2015-10-25 19:11:37 1021.37hPa</description>
+ <TimeStamp><when>2015-10-25T10:11:37.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.37</value></Data></ExtendedData>
+ <Point><coordinates>135.241,34.71794,36</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>19</name>
+ <description>2015-10-25 19:11:57 1021.3hPa</description>
+ <TimeStamp><when>2015-10-25T10:11:57.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.3</value></Data></ExtendedData>
+ <Point><coordinates>135.24146,34.718117,26</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>20</name>
+ <description>2015-10-25 19:12:12 1021.48hPa</description>
+ <TimeStamp><when>2015-10-25T10:12:12.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.48</value></Data></ExtendedData>
+ <Point><coordinates>135.24188,34.717987,26</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>21</name>
+ <description>2015-10-25 19:12:27 1021.75hPa</description>
+ <TimeStamp><when>2015-10-25T10:12:27.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.75</value></Data></ExtendedData>
+ <Point><coordinates>135.24228,34.717674,21</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>22</name>
+ <description>2015-10-25 19:12:44 1021.74hPa</description>
+ <TimeStamp><when>2015-10-25T10:12:44.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.74</value></Data></ExtendedData>
+ <Point><coordinates>135.24315,34.718014,23</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>23</name>
+ <description>2015-10-25 19:12:57 1021.7hPa</description>
+ <TimeStamp><when>2015-10-25T10:12:57.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.7</value></Data></ExtendedData>
+ <Point><coordinates>135.24376,34.718163,29</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>24</name>
+ <description>2015-10-25 19:13:09 1021.86hPa</description>
+ <TimeStamp><when>2015-10-25T10:13:09.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1021.86</value></Data></ExtendedData>
+ <Point><coordinates>135.24402,34.718258,26</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>25</name>
+ <description>2015-10-25 19:13:27 1022.0hPa</description>
+ <TimeStamp><when>2015-10-25T10:13:27.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.0</value></Data></ExtendedData>
+ <Point><coordinates>135.24425,34.7177,23</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>26</name>
+ <description>2015-10-25 19:13:42 1022.18hPa</description>
+ <TimeStamp><when>2015-10-25T10:13:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.18</value></Data></ExtendedData>
+ <Point><coordinates>135.24449,34.717144,25</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>27</name>
+ <description>2015-10-25 19:13:57 1022.42hPa</description>
+ <TimeStamp><when>2015-10-25T10:13:57.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.42</value></Data></ExtendedData>
+ <Point><coordinates>135.24475,34.71668,21</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>28</name>
+ <description>2015-10-25 19:14:12 1022.49hPa</description>
+ <TimeStamp><when>2015-10-25T10:14:12.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.49</value></Data></ExtendedData>
+ <Point><coordinates>135.24538,34.716778,16</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>29</name>
+ <description>2015-10-25 19:14:27 1022.67hPa</description>
+ <TimeStamp><when>2015-10-25T10:14:27.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.67</value></Data></ExtendedData>
+ <Point><coordinates>135.24649,34.7171,22</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>30</name>
+ <description>2015-10-25 19:14:41 1022.61hPa</description>
+ <TimeStamp><when>2015-10-25T10:14:41.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.61</value></Data></ExtendedData>
+ <Point><coordinates>135.24724,34.71737,22</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>31</name>
+ <description>2015-10-25 19:14:58 1022.54hPa</description>
+ <TimeStamp><when>2015-10-25T10:14:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.54</value></Data></ExtendedData>
+ <Point><coordinates>135.24806,34.71746,20</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>32</name>
+ <description>2015-10-25 19:15:12 1022.77hPa</description>
+ <TimeStamp><when>2015-10-25T10:15:12.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1022.77</value></Data></ExtendedData>
+ <Point><coordinates>135.24828,34.71688,18</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>33</name>
+ <description>2015-10-25 19:15:27 1023.08hPa</description>
+ <TimeStamp><when>2015-10-25T10:15:27.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.08</value></Data></ExtendedData>
+ <Point><coordinates>135.24841,34.716145,10</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>34</name>
+ <description>2015-10-25 19:15:47 1023.25hPa</description>
+ <TimeStamp><when>2015-10-25T10:15:47.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.25</value></Data></ExtendedData>
+ <Point><coordinates>135.24861,34.71544,11</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>35</name>
+ <description>2015-10-25 19:15:56 1023.21hPa</description>
+ <TimeStamp><when>2015-10-25T10:15:56.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.21</value></Data></ExtendedData>
+ <Point><coordinates>135.24889,34.715492,10</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>36</name>
+ <description>2015-10-25 19:16:09 1023.2hPa</description>
+ <TimeStamp><when>2015-10-25T10:16:09.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.2</value></Data></ExtendedData>
+ <Point><coordinates>135.24965,34.715755,15</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>37</name>
+ <description>2015-10-25 19:16:27 1023.26hPa</description>
+ <TimeStamp><when>2015-10-25T10:16:27.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.26</value></Data></ExtendedData>
+ <Point><coordinates>135.25087,34.71612,15</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>38</name>
+ <description>2015-10-25 19:16:39 1023.25hPa</description>
+ <TimeStamp><when>2015-10-25T10:16:39.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.25</value></Data></ExtendedData>
+ <Point><coordinates>135.25168,34.71636,16</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>39</name>
+ <description>2015-10-25 19:16:56 1023.1hPa</description>
+ <TimeStamp><when>2015-10-25T10:16:56.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.1</value></Data></ExtendedData>
+ <Point><coordinates>135.25276,34.716694,11</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>40</name>
+ <description>2015-10-25 19:17:09 1023.01hPa</description>
+ <TimeStamp><when>2015-10-25T10:17:09.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.01</value></Data></ExtendedData>
+ <Point><coordinates>135.25348,34.716904,8</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>41</name>
+ <description>2015-10-25 19:17:27 1023.0hPa</description>
+ <TimeStamp><when>2015-10-25T10:17:27.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.0</value></Data></ExtendedData>
+ <Point><coordinates>135.25357,34.716892,14</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>42</name>
+ <description>2015-10-25 19:17:44 1023.03hPa</description>
+ <TimeStamp><when>2015-10-25T10:17:44.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.03</value></Data></ExtendedData>
+ <Point><coordinates>135.25363,34.716724,9</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>43</name>
+ <description>2015-10-25 19:18:37 1023.08hPa</description>
+ <TimeStamp><when>2015-10-25T10:18:37.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.08</value></Data></ExtendedData>
+ <Point><coordinates>135.25394,34.716484,16</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>44</name>
+ <description>2015-10-25 19:19:02 1023.38hPa</description>
+ <TimeStamp><when>2015-10-25T10:19:02.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.38</value></Data></ExtendedData>
+ <Point><coordinates>135.25436,34.715687,13</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>45</name>
+ <description>2015-10-25 19:19:30 1023.48hPa</description>
+ <TimeStamp><when>2015-10-25T10:19:30.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.48</value></Data></ExtendedData>
+ <Point><coordinates>135.25455,34.715275,4</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>46</name>
+ <description>2015-10-25 19:19:39 1023.52hPa</description>
+ <TimeStamp><when>2015-10-25T10:19:39.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.52</value></Data></ExtendedData>
+ <Point><coordinates>135.25455,34.715244,4</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>47</name>
+ <description>2015-10-25 19:19:55 1023.65hPa</description>
+ <TimeStamp><when>2015-10-25T10:19:55.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.65</value></Data></ExtendedData>
+ <Point><coordinates>135.25488,34.715134,3</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>48</name>
+ <description>2015-10-25 19:20:12 1023.78hPa</description>
+ <TimeStamp><when>2015-10-25T10:20:12.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1023.78</value></Data></ExtendedData>
+ <Point><coordinates>135.25494,34.71507,8</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

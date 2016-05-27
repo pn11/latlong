@@ -1,6 +1,7 @@
 csv
 backup
 .timestamp
+*.dat
 
 
 ### Xcode ###

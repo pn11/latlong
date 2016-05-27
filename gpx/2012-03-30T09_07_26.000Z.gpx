@@ -1278,7 +1278,7 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
 </trkpt>
 <trkpt lat="36.675571" lon="139.961008">
 <ele>204</ele>
-<time>2012-03-02T06:57:45.000Z</time>
+<time>2012-03-30T09:15:16.000Z</time>
 </trkpt>
 <trkpt lat="36.675522" lon="139.960997">
 <ele>205</ele>
@@ -1490,7 +1490,7 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
 </trkpt>
 <trkpt lat="36.672685" lon="139.959994">
 <ele>208</ele>
-<time>2012-003-02T06:58:41.000Z</time>
+<time>2012-03-02T06:58:41.000Z</time>
 </trkpt>
 <trkpt lat="36.672636" lon="139.959999">
 <ele>208</ele>

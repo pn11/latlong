@@ -13,6 +13,7 @@
 		4F25BAB01CE06A4F00911702 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4F25BAB21CE06A7F00911702 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		4F25BAB31CE0765400911702 /* footprint.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = footprint.md; sourceTree = "<group>"; };
+		4FC2A6171CF8635D001DFA32 /* scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = scripts; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -25,6 +26,7 @@
 				4F25BAB01CE06A4F00911702 /* README.md */,
 				4F25BAB31CE0765400911702 /* footprint.md */,
 				4F25BAB21CE06A7F00911702 /* .gitignore */,
+				4FC2A6171CF8635D001DFA32 /* scripts */,
 			);
 			sourceTree = "<group>";
 		};
