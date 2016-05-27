@@ -83,6 +83,7 @@
 
 - [甲山登山](geojson/2016-05-01T02_08_43Z.geojson)
 - [キラズ登山](geojson/2016-05-08T01_02_58Z.geojson)
+- 自宅->三宮->大学 [その1](geojson/2016-05-27T06_03_05Z.geojson) [その2](geojson/2016-05-27T08_08_53Z.geojson)
 
 ## Test of embedding
 
