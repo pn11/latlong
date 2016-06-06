@@ -11,6 +11,7 @@
 - Make graph of velocity, elevation, etc.
 - Treatment of waypoints and routes in GPX.
 - I noticed KML-formatted outputs from [山旅ロガー](http://www.chizroid.info/ytlog) have atomospheric pressure information. So I will use KML rather than GPX for new data.
+- gpx2root
 
 ## My foot print
 

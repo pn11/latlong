@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4F25BAAD1CE0677600911702 /* change_name.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = change_name.rb; sourceTree = "<group>"; };
-		4F25BAAE1CE0677600911702 /* gpx2csv.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = gpx2csv.rb; sourceTree = "<group>"; };
 		4F25BAAF1CE0677600911702 /* gpx2geojson.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = gpx2geojson.rb; sourceTree = "<group>"; };
 		4F25BAB01CE06A4F00911702 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4F25BAB21CE06A7F00911702 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
@@ -20,8 +18,6 @@
 		4F25BAA51CE0670D00911702 = {
 			isa = PBXGroup;
 			children = (
-				4F25BAAD1CE0677600911702 /* change_name.rb */,
-				4F25BAAE1CE0677600911702 /* gpx2csv.rb */,
 				4F25BAAF1CE0677600911702 /* gpx2geojson.rb */,
 				4F25BAB01CE06A4F00911702 /* README.md */,
 				4F25BAB31CE0765400911702 /* footprint.md */,

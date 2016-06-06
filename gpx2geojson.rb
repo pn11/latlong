@@ -5,6 +5,7 @@ $LOAD_PATH << "./scripts"
 require "change_name.rb"
 require "gpx2csv.rb"
 require "gpx2dat.rb"
+require "gpx2google.rb"
 require "time2unix.rb"
 require "no_space_for_filename.rb"
 
@@ -40,6 +41,7 @@ ls.lines{|line|
     if (!File.exist?(geojson_file_name))
         gpx2csv(in_file_name)
         gpx2dat(in_file_name)
+        gpx2google(in_file_name)
         cmd3 = "csv2geojson --line true #{csv_file_name} > #{geojson_file_name}"
         puts cmd3
         puts `#{cmd3}`
