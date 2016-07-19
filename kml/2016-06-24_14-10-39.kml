@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name><![CDATA[2016-06-24 14:10:39]]></name>
+<description><![CDATA[山旅ロガー：2016-06-24 14:10～2016-06-24 15:43]]></description>
+<Placemark>
+ <name>1</name>
+ <description>2016-06-24 14:10:39 994.14hPa</description>
+ <TimeStamp><when>2016-06-24T05:10:39.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.14</value></Data></ExtendedData>
+ <Point><coordinates>126.4069,33.2482,75</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>2</name>
+ <description>2016-06-24 14:10:49 994.29hPa</description>
+ <TimeStamp><when>2016-06-24T05:10:49.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.29</value></Data></ExtendedData>
+ <Point><coordinates>126.406845,33.2481,75</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>3</name>
+ <description>2016-06-24 14:10:54 994.37hPa</description>
+ <TimeStamp><when>2016-06-24T05:10:54.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.37</value></Data></ExtendedData>
+ <Point><coordinates>126.40681,33.24804,75</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>4</name>
+ <description>2016-06-24 14:10:59 994.47hPa</description>
+ <TimeStamp><when>2016-06-24T05:10:59.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.47</value></Data></ExtendedData>
+ <Point><coordinates>126.4068,33.24799,74</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>5</name>
+ <description>2016-06-24 14:11:18 994.68hPa</description>
+ <TimeStamp><when>2016-06-24T05:11:18.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.68</value></Data></ExtendedData>
+ <Point><coordinates>126.4068,33.247765,73</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>6</name>
+ <description>2016-06-24 14:11:25 994.83hPa</description>
+ <TimeStamp><when>2016-06-24T05:11:25.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.83</value></Data></ExtendedData>
+ <Point><coordinates>126.40678,33.247692,74</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>7</name>
+ <description>2016-06-24 14:11:38 994.82hPa</description>
+ <TimeStamp><when>2016-06-24T05:11:38.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.82</value></Data></ExtendedData>
+ <Point><coordinates>126.40681,33.247677,75</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>8</name>
+ <description>2016-06-24 14:11:58 994.97hPa</description>
+ <TimeStamp><when>2016-06-24T05:11:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.97</value></Data></ExtendedData>
+ <Point><coordinates>126.406784,33.247547,73</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>9</name>
+ <description>2016-06-24 14:12:17 995.19hPa</description>
+ <TimeStamp><when>2016-06-24T05:12:17.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.19</value></Data></ExtendedData>
+ <Point><coordinates>126.40684,33.24736,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>10</name>
+ <description>2016-06-24 14:12:42 995.48hPa</description>
+ <TimeStamp><when>2016-06-24T05:12:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.48</value></Data></ExtendedData>
+ <Point><coordinates>126.406746,33.247063,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>11</name>
+ <description>2016-06-24 14:12:55 995.8hPa</description>
+ <TimeStamp><when>2016-06-24T05:12:55.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.8</value></Data></ExtendedData>
+ <Point><coordinates>126.40671,33.247,67</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>12</name>
+ <description>2016-06-24 14:13:26 995.97hPa</description>
+ <TimeStamp><when>2016-06-24T05:13:26.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.97</value></Data></ExtendedData>
+ <Point><coordinates>126.40638,33.246483,74</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>13</name>
+ <description>2016-06-24 14:13:43 996.13hPa</description>
+ <TimeStamp><when>2016-06-24T05:13:43.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.13</value></Data></ExtendedData>
+ <Point><coordinates>126.40628,33.246376,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>14</name>
+ <description>2016-06-24 14:13:48 996.2hPa</description>
+ <TimeStamp><when>2016-06-24T05:13:48.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.2</value></Data></ExtendedData>
+ <Point><coordinates>126.40626,33.24634,64</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>15</name>
+ <description>2016-06-24 14:13:52 996.26hPa</description>
+ <TimeStamp><when>2016-06-24T05:13:52.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.26</value></Data></ExtendedData>
+ <Point><coordinates>126.406235,33.246315,65</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>16</name>
+ <description>2016-06-24 14:13:58 996.42hPa</description>
+ <TimeStamp><when>2016-06-24T05:13:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.42</value></Data></ExtendedData>
+ <Point><coordinates>126.40619,33.246273,66</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>17</name>
+ <description>2016-06-24 14:14:11 996.56hPa</description>
+ <TimeStamp><when>2016-06-24T05:14:11.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.56</value></Data></ExtendedData>
+ <Point><coordinates>126.4061,33.246128,61</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>18</name>
+ <description>2016-06-24 14:14:26 996.7hPa</description>
+ <TimeStamp><when>2016-06-24T05:14:26.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.7</value></Data></ExtendedData>
+ <Point><coordinates>126.40607,33.245983,56</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>19</name>
+ <description>2016-06-24 14:14:37 996.77hPa</description>
+ <TimeStamp><when>2016-06-24T05:14:37.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.77</value></Data></ExtendedData>
+ <Point><coordinates>126.40605,33.24586,53</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>20</name>
+ <description>2016-06-24 14:14:54 996.81hPa</description>
+ <TimeStamp><when>2016-06-24T05:14:54.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.81</value></Data></ExtendedData>
+ <Point><coordinates>126.406006,33.24568,47</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>21</name>
+ <description>2016-06-24 14:15:08 996.91hPa</description>
+ <TimeStamp><when>2016-06-24T05:15:08.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.91</value></Data></ExtendedData>
+ <Point><coordinates>126.40596,33.245533,44</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>22</name>
+ <description>2016-06-24 14:15:28 996.98hPa</description>
+ <TimeStamp><when>2016-06-24T05:15:28.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.98</value></Data></ExtendedData>
+ <Point><coordinates>126.406,33.245304,45</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>23</name>
+ <description>2016-06-24 14:15:46 997.23hPa</description>
+ <TimeStamp><when>2016-06-24T05:15:46.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.23</value></Data></ExtendedData>
+ <Point><coordinates>126.40609,33.245106,44</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>24</name>
+ <description>2016-06-24 14:16:03 997.21hPa</description>
+ <TimeStamp><when>2016-06-24T05:16:03.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.21</value></Data></ExtendedData>
+ <Point><coordinates>126.40618,33.24505,36</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>25</name>
+ <description>2016-06-24 14:16:19 997.24hPa</description>
+ <TimeStamp><when>2016-06-24T05:16:19.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.24</value></Data></ExtendedData>
+ <Point><coordinates>126.406204,33.24502,36</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>26</name>
+ <description>2016-06-24 14:16:36 997.27hPa</description>
+ <TimeStamp><when>2016-06-24T05:16:36.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.27</value></Data></ExtendedData>
+ <Point><coordinates>126.40639,33.244953,38</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>27</name>
+ <description>2016-06-24 14:17:26 997.23hPa</description>
+ <TimeStamp><when>2016-06-24T05:17:26.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.23</value></Data></ExtendedData>
+ <Point><coordinates>126.406456,33.24487,37</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>28</name>
+ <description>2016-06-24 14:18:24 998.24hPa</description>
+ <TimeStamp><when>2016-06-24T05:18:24.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.24</value></Data></ExtendedData>
+ <Point><coordinates>126.40662,33.24452,21</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>29</name>
+ <description>2016-06-24 14:18:49 998.1hPa</description>
+ <TimeStamp><when>2016-06-24T05:18:49.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.1</value></Data></ExtendedData>
+ <Point><coordinates>126.40684,33.244453,28</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>30</name>
+ <description>2016-06-24 14:21:49 998.24hPa</description>
+ <TimeStamp><when>2016-06-24T05:21:49.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.24</value></Data></ExtendedData>
+ <Point><coordinates>126.406845,33.24446,32</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>31</name>
+ <description>2016-06-24 14:22:31 998.23hPa</description>
+ <TimeStamp><when>2016-06-24T05:22:31.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.23</value></Data></ExtendedData>
+ <Point><coordinates>126.40683,33.244473,32</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>32</name>
+ <description>2016-06-24 14:23:27 998.5hPa</description>
+ <TimeStamp><when>2016-06-24T05:23:27.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.5</value></Data></ExtendedData>
+ <Point><coordinates>126.40674,33.244358,26</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>33</name>
+ <description>2016-06-24 14:24:00 998.88hPa</description>
+ <TimeStamp><when>2016-06-24T05:24:00.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.88</value></Data></ExtendedData>
+ <Point><coordinates>126.40657,33.244156,21</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>34</name>
+ <description>2016-06-24 14:24:50 998.99hPa</description>
+ <TimeStamp><when>2016-06-24T05:24:50.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.99</value></Data></ExtendedData>
+ <Point><coordinates>126.406105,33.24384,23</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>35</name>
+ <description>2016-06-24 14:25:32 998.98hPa</description>
+ <TimeStamp><when>2016-06-24T05:25:32.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.98</value></Data></ExtendedData>
+ <Point><coordinates>126.40563,33.24369,17</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>36</name>
+ <description>2016-06-24 14:26:07 999.04hPa</description>
+ <TimeStamp><when>2016-06-24T05:26:07.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.04</value></Data></ExtendedData>
+ <Point><coordinates>126.40531,33.24354,17</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>37</name>
+ <description>2016-06-24 14:26:33 999.04hPa</description>
+ <TimeStamp><when>2016-06-24T05:26:33.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.04</value></Data></ExtendedData>
+ <Point><coordinates>126.40504,33.24357,14</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>38</name>
+ <description>2016-06-24 14:26:56 999.06hPa</description>
+ <TimeStamp><when>2016-06-24T05:26:56.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.06</value></Data></ExtendedData>
+ <Point><coordinates>126.40487,33.243576,17</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>39</name>
+ <description>2016-06-24 14:27:34 999.12hPa</description>
+ <TimeStamp><when>2016-06-24T05:27:34.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.12</value></Data></ExtendedData>
+ <Point><coordinates>126.40484,33.243553,16</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>40</name>
+ <description>2016-06-24 14:28:53 999.05hPa</description>
+ <TimeStamp><when>2016-06-24T05:28:53.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.05</value></Data></ExtendedData>
+ <Point><coordinates>126.404816,33.24356,14</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>41</name>
+ <description>2016-06-24 14:29:32 999.09hPa</description>
+ <TimeStamp><when>2016-06-24T05:29:32.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.09</value></Data></ExtendedData>
+ <Point><coordinates>126.40523,33.243546,19</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>42</name>
+ <description>2016-06-24 14:30:10 998.99hPa</description>
+ <TimeStamp><when>2016-06-24T05:30:10.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.99</value></Data></ExtendedData>
+ <Point><coordinates>126.40547,33.243683,18</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>43</name>
+ <description>2016-06-24 14:30:38 999.1hPa</description>
+ <TimeStamp><when>2016-06-24T05:30:38.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.1</value></Data></ExtendedData>
+ <Point><coordinates>126.40572,33.243713,16</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>44</name>
+ <description>2016-06-24 14:31:15 999.07hPa</description>
+ <TimeStamp><when>2016-06-24T05:31:15.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.07</value></Data></ExtendedData>
+ <Point><coordinates>126.40605,33.243885,12</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>45</name>
+ <description>2016-06-24 14:31:50 998.96hPa</description>
+ <TimeStamp><when>2016-06-24T05:31:50.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.96</value></Data></ExtendedData>
+ <Point><coordinates>126.40655,33.244133,29</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>46</name>
+ <description>2016-06-24 14:32:09 998.87hPa</description>
+ <TimeStamp><when>2016-06-24T05:32:09.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.87</value></Data></ExtendedData>
+ <Point><coordinates>126.406586,33.244198,13</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>47</name>
+ <description>2016-06-24 14:32:21 998.77hPa</description>
+ <TimeStamp><when>2016-06-24T05:32:21.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.77</value></Data></ExtendedData>
+ <Point><coordinates>126.40663,33.244293,15</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>48</name>
+ <description>2016-06-24 14:32:34 998.39hPa</description>
+ <TimeStamp><when>2016-06-24T05:32:34.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.39</value></Data></ExtendedData>
+ <Point><coordinates>126.40672,33.244392,25</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>49</name>
+ <description>2016-06-24 14:33:01 998.15hPa</description>
+ <TimeStamp><when>2016-06-24T05:33:01.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.15</value></Data></ExtendedData>
+ <Point><coordinates>126.406746,33.244534,26</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>50</name>
+ <description>2016-06-24 14:33:15 998.35hPa</description>
+ <TimeStamp><when>2016-06-24T05:33:15.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.35</value></Data></ExtendedData>
+ <Point><coordinates>126.406815,33.244534,23</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>51</name>
+ <description>2016-06-24 14:33:43 999.21hPa</description>
+ <TimeStamp><when>2016-06-24T05:33:43.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.21</value></Data></ExtendedData>
+ <Point><coordinates>126.40701,33.24465,22</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>52</name>
+ <description>2016-06-24 14:34:37 1000.36hPa</description>
+ <TimeStamp><when>2016-06-24T05:34:37.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.36</value></Data></ExtendedData>
+ <Point><coordinates>126.40716,33.244755,-8</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>53</name>
+ <description>2016-06-24 14:34:56 1000.6hPa</description>
+ <TimeStamp><when>2016-06-24T05:34:56.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.6</value></Data></ExtendedData>
+ <Point><coordinates>126.40728,33.24469,-3</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>54</name>
+ <description>2016-06-24 14:35:29 1000.56hPa</description>
+ <TimeStamp><when>2016-06-24T05:35:29.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.56</value></Data></ExtendedData>
+ <Point><coordinates>126.40738,33.24477,-16</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>55</name>
+ <description>2016-06-24 14:36:02 1000.65hPa</description>
+ <TimeStamp><when>2016-06-24T05:36:02.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.65</value></Data></ExtendedData>
+ <Point><coordinates>126.40756,33.2448,3</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>56</name>
+ <description>2016-06-24 14:36:37 1000.64hPa</description>
+ <TimeStamp><when>2016-06-24T05:36:37.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.64</value></Data></ExtendedData>
+ <Point><coordinates>126.407845,33.244877,-3</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>57</name>
+ <description>2016-06-24 14:36:59 1000.63hPa</description>
+ <TimeStamp><when>2016-06-24T05:36:59.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.63</value></Data></ExtendedData>
+ <Point><coordinates>126.408066,33.24501,21</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>58</name>
+ <description>2016-06-24 14:37:34 1000.61hPa</description>
+ <TimeStamp><when>2016-06-24T05:37:34.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.61</value></Data></ExtendedData>
+ <Point><coordinates>126.408356,33.244957,1</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>59</name>
+ <description>2016-06-24 14:38:19 1000.62hPa</description>
+ <TimeStamp><when>2016-06-24T05:38:19.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.62</value></Data></ExtendedData>
+ <Point><coordinates>126.40873,33.244995,-9</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>60</name>
+ <description>2016-06-24 14:38:50 1000.55hPa</description>
+ <TimeStamp><when>2016-06-24T05:38:50.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.55</value></Data></ExtendedData>
+ <Point><coordinates>126.40907,33.24496,6</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>61</name>
+ <description>2016-06-24 14:39:20 1000.42hPa</description>
+ <TimeStamp><when>2016-06-24T05:39:20.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.42</value></Data></ExtendedData>
+ <Point><coordinates>126.40945,33.245033,13</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>62</name>
+ <description>2016-06-24 14:39:42 1000.54hPa</description>
+ <TimeStamp><when>2016-06-24T05:39:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.54</value></Data></ExtendedData>
+ <Point><coordinates>126.40951,33.2451,0</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>63</name>
+ <description>2016-06-24 14:39:44 1000.56hPa</description>
+ <TimeStamp><when>2016-06-24T05:39:44.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.56</value></Data></ExtendedData>
+ <Point><coordinates>126.40951,33.245102,-3</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>64</name>
+ <description>2016-06-24 14:40:14 1000.56hPa</description>
+ <TimeStamp><when>2016-06-24T05:40:14.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.56</value></Data></ExtendedData>
+ <Point><coordinates>126.40961,33.245125,-2</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>65</name>
+ <description>2016-06-24 14:40:28 1000.58hPa</description>
+ <TimeStamp><when>2016-06-24T05:40:28.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.58</value></Data></ExtendedData>
+ <Point><coordinates>126.409706,33.245167,-6</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>66</name>
+ <description>2016-06-24 14:40:51 1000.55hPa</description>
+ <TimeStamp><when>2016-06-24T05:40:51.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.55</value></Data></ExtendedData>
+ <Point><coordinates>126.40986,33.245155,-6</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>67</name>
+ <description>2016-06-24 14:41:21 1000.53hPa</description>
+ <TimeStamp><when>2016-06-24T05:41:21.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.53</value></Data></ExtendedData>
+ <Point><coordinates>126.410034,33.245186,-11</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>68</name>
+ <description>2016-06-24 14:41:46 1000.49hPa</description>
+ <TimeStamp><when>2016-06-24T05:41:46.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.49</value></Data></ExtendedData>
+ <Point><coordinates>126.41014,33.245182,-6</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>69</name>
+ <description>2016-06-24 14:42:53 1000.08hPa</description>
+ <TimeStamp><when>2016-06-24T05:42:53.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.08</value></Data></ExtendedData>
+ <Point><coordinates>126.41024,33.245285,2</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>70</name>
+ <description>2016-06-24 14:43:29 1000.06hPa</description>
+ <TimeStamp><when>2016-06-24T05:43:29.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>1000.06</value></Data></ExtendedData>
+ <Point><coordinates>126.410194,33.24529,8</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>71</name>
+ <description>2016-06-24 14:44:50 999.55hPa</description>
+ <TimeStamp><when>2016-06-24T05:44:50.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>999.55</value></Data></ExtendedData>
+ <Point><coordinates>126.410614,33.24557,7</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>72</name>
+ <description>2016-06-24 14:45:31 998.95hPa</description>
+ <TimeStamp><when>2016-06-24T05:45:31.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>998.95</value></Data></ExtendedData>
+ <Point><coordinates>126.41071,33.24569,7</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>73</name>
+ <description>2016-06-24 14:46:36 997.85hPa</description>
+ <TimeStamp><when>2016-06-24T05:46:36.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.85</value></Data></ExtendedData>
+ <Point><coordinates>126.41092,33.245926,32</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>74</name>
+ <description>2016-06-24 14:47:08 997.86hPa</description>
+ <TimeStamp><when>2016-06-24T05:47:08.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.86</value></Data></ExtendedData>
+ <Point><coordinates>126.410835,33.24588,28</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>75</name>
+ <description>2016-06-24 14:47:42 997.88hPa</description>
+ <TimeStamp><when>2016-06-24T05:47:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.88</value></Data></ExtendedData>
+ <Point><coordinates>126.41081,33.245884,26</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>76</name>
+ <description>2016-06-24 14:48:58 997.88hPa</description>
+ <TimeStamp><when>2016-06-24T05:48:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.88</value></Data></ExtendedData>
+ <Point><coordinates>126.41079,33.24589,29</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>77</name>
+ <description>2016-06-24 14:49:43 997.9hPa</description>
+ <TimeStamp><when>2016-06-24T05:49:43.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.9</value></Data></ExtendedData>
+ <Point><coordinates>126.410774,33.24588,25</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>78</name>
+ <description>2016-06-24 14:51:18 996.6hPa</description>
+ <TimeStamp><when>2016-06-24T05:51:18.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.6</value></Data></ExtendedData>
+ <Point><coordinates>126.410805,33.245903,24</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>79</name>
+ <description>2016-06-24 14:52:15 996.63hPa</description>
+ <TimeStamp><when>2016-06-24T05:52:15.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.63</value></Data></ExtendedData>
+ <Point><coordinates>126.41096,33.24596,45</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>80</name>
+ <description>2016-06-24 14:53:15 997.48hPa</description>
+ <TimeStamp><when>2016-06-24T05:53:15.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.48</value></Data></ExtendedData>
+ <Point><coordinates>126.411415,33.245766,33</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>81</name>
+ <description>2016-06-24 14:54:12 997.08hPa</description>
+ <TimeStamp><when>2016-06-24T05:54:12.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>997.08</value></Data></ExtendedData>
+ <Point><coordinates>126.41174,33.24575,45</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>82</name>
+ <description>2016-06-24 14:54:58 996.49hPa</description>
+ <TimeStamp><when>2016-06-24T05:54:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>996.49</value></Data></ExtendedData>
+ <Point><coordinates>126.411804,33.246193,54</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>83</name>
+ <description>2016-06-24 14:55:36 995.65hPa</description>
+ <TimeStamp><when>2016-06-24T05:55:36.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.65</value></Data></ExtendedData>
+ <Point><coordinates>126.411934,33.246387,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>84</name>
+ <description>2016-06-24 14:56:11 995.14hPa</description>
+ <TimeStamp><when>2016-06-24T05:56:11.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.14</value></Data></ExtendedData>
+ <Point><coordinates>126.412315,33.24619,49</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>85</name>
+ <description>2016-06-24 14:57:57 995.37hPa</description>
+ <TimeStamp><when>2016-06-24T05:57:57.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.37</value></Data></ExtendedData>
+ <Point><coordinates>126.413025,33.246197,54</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>86</name>
+ <description>2016-06-24 14:58:24 995.53hPa</description>
+ <TimeStamp><when>2016-06-24T05:58:24.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.53</value></Data></ExtendedData>
+ <Point><coordinates>126.41316,33.246185,55</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>87</name>
+ <description>2016-06-24 14:58:42 995.13hPa</description>
+ <TimeStamp><when>2016-06-24T05:58:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.13</value></Data></ExtendedData>
+ <Point><coordinates>126.41316,33.24617,55</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>88</name>
+ <description>2016-06-24 14:58:59 994.97hPa</description>
+ <TimeStamp><when>2016-06-24T05:58:59.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.97</value></Data></ExtendedData>
+ <Point><coordinates>126.41316,33.24616,55</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>89</name>
+ <description>2016-06-24 15:01:42 994.95hPa</description>
+ <TimeStamp><when>2016-06-24T06:01:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.95</value></Data></ExtendedData>
+ <Point><coordinates>126.41323,33.24575,58</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>90</name>
+ <description>2016-06-24 15:02:00 994.94hPa</description>
+ <TimeStamp><when>2016-06-24T06:02:00.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.94</value></Data></ExtendedData>
+ <Point><coordinates>126.413216,33.245747,58</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>91</name>
+ <description>2016-06-24 15:02:49 994.86hPa</description>
+ <TimeStamp><when>2016-06-24T06:02:49.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.86</value></Data></ExtendedData>
+ <Point><coordinates>126.41317,33.245777,58</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>92</name>
+ <description>2016-06-24 15:03:21 994.86hPa</description>
+ <TimeStamp><when>2016-06-24T06:03:21.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.86</value></Data></ExtendedData>
+ <Point><coordinates>126.41316,33.24578,57</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>93</name>
+ <description>2016-06-24 15:04:08 995.07hPa</description>
+ <TimeStamp><when>2016-06-24T06:04:08.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.07</value></Data></ExtendedData>
+ <Point><coordinates>126.413185,33.246037,51</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>94</name>
+ <description>2016-06-24 15:04:48 995.04hPa</description>
+ <TimeStamp><when>2016-06-24T06:04:48.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>995.04</value></Data></ExtendedData>
+ <Point><coordinates>126.41283,33.246304,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>95</name>
+ <description>2016-06-24 15:05:37 994.62hPa</description>
+ <TimeStamp><when>2016-06-24T06:05:37.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.62</value></Data></ExtendedData>
+ <Point><coordinates>126.41243,33.24623,62</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>96</name>
+ <description>2016-06-24 15:06:11 994.5hPa</description>
+ <TimeStamp><when>2016-06-24T06:06:11.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.5</value></Data></ExtendedData>
+ <Point><coordinates>126.41225,33.246433,58</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>97</name>
+ <description>2016-06-24 15:07:07 994.37hPa</description>
+ <TimeStamp><when>2016-06-24T06:07:07.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>994.37</value></Data></ExtendedData>
+ <Point><coordinates>126.41202,33.2469,65</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>98</name>
+ <description>2016-06-24 15:07:36 993.88hPa</description>
+ <TimeStamp><when>2016-06-24T06:07:36.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.88</value></Data></ExtendedData>
+ <Point><coordinates>126.41182,33.24708,73</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>99</name>
+ <description>2016-06-24 15:07:48 993.94hPa</description>
+ <TimeStamp><when>2016-06-24T06:07:48.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.94</value></Data></ExtendedData>
+ <Point><coordinates>126.41168,33.24713,61</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>100</name>
+ <description>2016-06-24 15:08:14 993.86hPa</description>
+ <TimeStamp><when>2016-06-24T06:08:14.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.86</value></Data></ExtendedData>
+ <Point><coordinates>126.411674,33.247356,73</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>101</name>
+ <description>2016-06-24 15:08:32 993.88hPa</description>
+ <TimeStamp><when>2016-06-24T06:08:32.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.88</value></Data></ExtendedData>
+ <Point><coordinates>126.41172,33.24757,74</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>102</name>
+ <description>2016-06-24 15:08:55 993.92hPa</description>
+ <TimeStamp><when>2016-06-24T06:08:55.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.92</value></Data></ExtendedData>
+ <Point><coordinates>126.41163,33.247814,75</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>103</name>
+ <description>2016-06-24 15:09:14 993.85hPa</description>
+ <TimeStamp><when>2016-06-24T06:09:14.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.85</value></Data></ExtendedData>
+ <Point><coordinates>126.411705,33.247986,81</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>104</name>
+ <description>2016-06-24 15:09:40 993.78hPa</description>
+ <TimeStamp><when>2016-06-24T06:09:40.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.78</value></Data></ExtendedData>
+ <Point><coordinates>126.41164,33.248257,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>105</name>
+ <description>2016-06-24 15:09:59 993.76hPa</description>
+ <TimeStamp><when>2016-06-24T06:09:59.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.76</value></Data></ExtendedData>
+ <Point><coordinates>126.411606,33.24847,73</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>106</name>
+ <description>2016-06-24 15:10:13 993.79hPa</description>
+ <TimeStamp><when>2016-06-24T06:10:13.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.79</value></Data></ExtendedData>
+ <Point><coordinates>126.41158,33.24861,72</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>107</name>
+ <description>2016-06-24 15:10:38 993.78hPa</description>
+ <TimeStamp><when>2016-06-24T06:10:38.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.78</value></Data></ExtendedData>
+ <Point><coordinates>126.4114,33.24882,71</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>108</name>
+ <description>2016-06-24 15:10:46 993.8hPa</description>
+ <TimeStamp><when>2016-06-24T06:10:46.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.8</value></Data></ExtendedData>
+ <Point><coordinates>126.41137,33.248913,71</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>109</name>
+ <description>2016-06-24 15:10:59 993.7hPa</description>
+ <TimeStamp><when>2016-06-24T06:10:59.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.7</value></Data></ExtendedData>
+ <Point><coordinates>126.41127,33.249058,71</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>110</name>
+ <description>2016-06-24 15:11:15 993.75hPa</description>
+ <TimeStamp><when>2016-06-24T06:11:15.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.75</value></Data></ExtendedData>
+ <Point><coordinates>126.411156,33.249176,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>111</name>
+ <description>2016-06-24 15:11:34 993.6hPa</description>
+ <TimeStamp><when>2016-06-24T06:11:34.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.6</value></Data></ExtendedData>
+ <Point><coordinates>126.410995,33.249275,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>112</name>
+ <description>2016-06-24 15:12:03 993.65hPa</description>
+ <TimeStamp><when>2016-06-24T06:12:03.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.65</value></Data></ExtendedData>
+ <Point><coordinates>126.41083,33.249134,65</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>113</name>
+ <description>2016-06-24 15:12:17 993.65hPa</description>
+ <TimeStamp><when>2016-06-24T06:12:17.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.65</value></Data></ExtendedData>
+ <Point><coordinates>126.41063,33.249077,70</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>114</name>
+ <description>2016-06-24 15:12:33 993.62hPa</description>
+ <TimeStamp><when>2016-06-24T06:12:33.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.62</value></Data></ExtendedData>
+ <Point><coordinates>126.41066,33.2489,71</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>115</name>
+ <description>2016-06-24 15:12:54 993.63hPa</description>
+ <TimeStamp><when>2016-06-24T06:12:54.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.63</value></Data></ExtendedData>
+ <Point><coordinates>126.410484,33.248756,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>116</name>
+ <description>2016-06-24 15:25:39 993.62hPa</description>
+ <TimeStamp><when>2016-06-24T06:25:39.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.62</value></Data></ExtendedData>
+ <Point><coordinates>126.40987,33.249268,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>117</name>
+ <description>2016-06-24 15:25:48 993.62hPa</description>
+ <TimeStamp><when>2016-06-24T06:25:48.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.62</value></Data></ExtendedData>
+ <Point><coordinates>126.40982,33.24933,75</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>118</name>
+ <description>2016-06-24 15:25:58 993.57hPa</description>
+ <TimeStamp><when>2016-06-24T06:25:58.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.57</value></Data></ExtendedData>
+ <Point><coordinates>126.4097,33.24937,73</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>119</name>
+ <description>2016-06-24 15:26:04 993.55hPa</description>
+ <TimeStamp><when>2016-06-24T06:26:04.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.55</value></Data></ExtendedData>
+ <Point><coordinates>126.40964,33.249424,73</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>120</name>
+ <description>2016-06-24 15:26:16 993.58hPa</description>
+ <TimeStamp><when>2016-06-24T06:26:16.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.58</value></Data></ExtendedData>
+ <Point><coordinates>126.40947,33.249466,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>121</name>
+ <description>2016-06-24 15:26:39 993.56hPa</description>
+ <TimeStamp><when>2016-06-24T06:26:39.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.56</value></Data></ExtendedData>
+ <Point><coordinates>126.409164,33.249546,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>122</name>
+ <description>2016-06-24 15:26:42 993.59hPa</description>
+ <TimeStamp><when>2016-06-24T06:26:42.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.59</value></Data></ExtendedData>
+ <Point><coordinates>126.409164,33.249565,67</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>123</name>
+ <description>2016-06-24 15:26:57 993.56hPa</description>
+ <TimeStamp><when>2016-06-24T06:26:57.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.56</value></Data></ExtendedData>
+ <Point><coordinates>126.40906,33.24966,63</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>124</name>
+ <description>2016-06-24 15:27:16 993.56hPa</description>
+ <TimeStamp><when>2016-06-24T06:27:16.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.56</value></Data></ExtendedData>
+ <Point><coordinates>126.408905,33.24967,61</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>125</name>
+ <description>2016-06-24 15:27:35 993.53hPa</description>
+ <TimeStamp><when>2016-06-24T06:27:35.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.53</value></Data></ExtendedData>
+ <Point><coordinates>126.40883,33.24985,66</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>126</name>
+ <description>2016-06-24 15:28:00 993.31hPa</description>
+ <TimeStamp><when>2016-06-24T06:28:00.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.31</value></Data></ExtendedData>
+ <Point><coordinates>126.40873,33.250153,66</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>127</name>
+ <description>2016-06-24 15:28:21 993.4hPa</description>
+ <TimeStamp><when>2016-06-24T06:28:21.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.4</value></Data></ExtendedData>
+ <Point><coordinates>126.40844,33.250202,71</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>128</name>
+ <description>2016-06-24 15:28:47 993.44hPa</description>
+ <TimeStamp><when>2016-06-24T06:28:47.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.44</value></Data></ExtendedData>
+ <Point><coordinates>126.40804,33.250195,69</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>129</name>
+ <description>2016-06-24 15:29:12 993.48hPa</description>
+ <TimeStamp><when>2016-06-24T06:29:12.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.48</value></Data></ExtendedData>
+ <Point><coordinates>126.40763,33.250217,75</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>130</name>
+ <description>2016-06-24 15:29:24 993.49hPa</description>
+ <TimeStamp><when>2016-06-24T06:29:24.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.49</value></Data></ExtendedData>
+ <Point><coordinates>126.40756,33.250126,67</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>131</name>
+ <description>2016-06-24 15:29:34 993.47hPa</description>
+ <TimeStamp><when>2016-06-24T06:29:34.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.47</value></Data></ExtendedData>
+ <Point><coordinates>126.407616,33.24999,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>132</name>
+ <description>2016-06-24 15:29:41 993.47hPa</description>
+ <TimeStamp><when>2016-06-24T06:29:41.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.47</value></Data></ExtendedData>
+ <Point><coordinates>126.40763,33.2499,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>133</name>
+ <description>2016-06-24 15:29:53 993.47hPa</description>
+ <TimeStamp><when>2016-06-24T06:29:53.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.47</value></Data></ExtendedData>
+ <Point><coordinates>126.407616,33.249767,62</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>134</name>
+ <description>2016-06-24 15:30:03 993.39hPa</description>
+ <TimeStamp><when>2016-06-24T06:30:03.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.39</value></Data></ExtendedData>
+ <Point><coordinates>126.4076,33.24964,62</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>135</name>
+ <description>2016-06-24 15:30:45 993.34hPa</description>
+ <TimeStamp><when>2016-06-24T06:30:45.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.34</value></Data></ExtendedData>
+ <Point><coordinates>126.40778,33.249153,68</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>136</name>
+ <description>2016-06-24 15:30:57 993.33hPa</description>
+ <TimeStamp><when>2016-06-24T06:30:57.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.33</value></Data></ExtendedData>
+ <Point><coordinates>126.407906,33.24909,65</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>137</name>
+ <description>2016-06-24 15:31:09 993.22hPa</description>
+ <TimeStamp><when>2016-06-24T06:31:09.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.22</value></Data></ExtendedData>
+ <Point><coordinates>126.40806,33.24907,59</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>138</name>
+ <description>2016-06-24 15:31:20 993.13hPa</description>
+ <TimeStamp><when>2016-06-24T06:31:20.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.13</value></Data></ExtendedData>
+ <Point><coordinates>126.408134,33.249077,57</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>139</name>
+ <description>2016-06-24 15:40:18 993.04hPa</description>
+ <TimeStamp><when>2016-06-24T06:40:18.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>993.04</value></Data></ExtendedData>
+ <Point><coordinates>126.40878,33.249115,74</coordinates></Point>
+</Placemark>
+<Placemark>
+ <name>140</name>
+ <description>2016-06-24 15:43:23 992.99hPa</description>
+ <TimeStamp><when>2016-06-24T06:43:23.000Z</when></TimeStamp>
+ <ExtendedData><Data name="pressure"><value>992.99</value></Data></ExtendedData>
+ <Point><coordinates>126.40864,33.249046,62</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
