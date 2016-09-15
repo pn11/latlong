@@ -24,7 +24,11 @@ def utc2jst(time)
     end
     
     hour += 9
-
+    if hour >= 24
+        hour -= 24
+        day += 1
+    end
+    
     smonth = "%02d" % month
     sday = "%02d" % day
     shour = "%02d" % hour
