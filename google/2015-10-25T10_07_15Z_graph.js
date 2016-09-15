@@ -82,7 +82,7 @@ function draw_ele(){
 
 draw_ele();
 
-function writeHTML(){
+function writeHTMLGraph(){
   document.getElementById("graph").innerHTML='<h2>Graph</h2><div id="dashboard_ele" style="width: 0px; height: 0px"></div><div id="graph_ele" style="width: 800px; height: 600px"></div><div id="control_ele" style="width: 800px; height: 100px"></div>';
 }
 
