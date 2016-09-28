@@ -79,11 +79,31 @@
 - [その2](geojson/2016-03-21T04_41_57Z.geojson)
 - [その3](geojson/2016-03-22T04_29_23Z.geojson)
 
+### 済州島
+
+- [その1](geojson/2016-06-22T07_59_45Z.geojson)
+- [その2](geojson/2016-06-23T04_23_31Z.geojson)
+- [その3](geojson/2016-06-24T05_10_39Z.geojson)
+- [その4](geojson/2016-06-24T23_57_01Z.geojson)
+
+### 剱岳
+
+- [その1](geojson/2016-09-03T03_00_45Z.geojson)
+- [その2](geojson/2016-09-03T19_14_07Z.geojson)
+
+### 宮崎学会
+
+- [その1](geojson/2016-09-21T07_53_00Z.geojson)
+- [その2](geojson/2016-09-24T05_49_21Z.geojson)
+- [その3](geojson/2016-09-24T10_26_23Z.geojson)
+
 ### その他
 
 - [甲山登山](geojson/2016-05-01T02_08_43Z.geojson)
 - [キラズ登山](geojson/2016-05-08T01_02_58Z.geojson)
 - 自宅->三宮->大学 [その1](geojson/2016-05-27T06_03_05Z.geojson) [その2](geojson/2016-05-27T08_08_53Z.geojson)
+- [天蓋山](geojson/2016-06-04T00_15_11Z.geojson)
+- [北ノ俣岳](geojson/2016-07-22T20_01_53Z.geojson)
 
 ## Test of embedding
 
