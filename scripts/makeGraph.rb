@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 require "rexml/document"
 require "utc2jst.rb"
+require "geokit" #http://www.rubydoc.info/github/geokit/geokit/master/Geokit
 
 def makeGraph(in_file_name)
     puts "makeGraph #{in_file_name}"
@@ -13,24 +14,34 @@ def makeGraph(in_file_name)
         doc = REXML::Document.new(xmlfile)
     }
     
-    npoint = 0;
-    iarray = 0;
+    npoint = 0
+    iarray = 0
+    distance = 0.0
+    geo_current = Geokit::LatLng.new()
+    geo_pre = Geokit::LatLng.new()
 
     fout.puts "function array_ele(){"
     fout.puts "  var var_array = ["
-    fout.puts "    ['Time', 'Elevation (m)'],"
+    fout.puts "    ['Time', 'Elevation (m)', 'Distance (km)'],"
     gpx = doc.elements["/gpx"]
     gpx.elements.each("trk"){|trk|
         trk.elements.each("trkseg"){|trkseg|
             trkseg.elements.each("trkpt"){|trkpt|
                 longtitude = trkpt.attributes.get_attribute("lon")
                 latitude = trkpt.attributes.get_attribute("lat")
+                geo_current.lat = "#{latitude}"
+                geo_current.lng = "#{longtitude}"
+                if (npoint > 0); distance += geo_current.distance_to(geo_pre, {:units => :kms}); end
                 time = trkpt.elements["time"]
                 ele = trkpt.elements["ele"]
                 if time != nil; time = time.text; else time = "0"; end
                 if ele != nil; ele = ele.text; else ele = "0"; end
                 time = utc2jst(time)
-                fout.puts "    [new Date('#{time}'), #{ele}],"
+                fout.puts "    [new Date('#{time}'), #{ele}, #{distance}],"
+                #puts "distance = #{distance}"
+                ## end of process
+                geo_pre.lat = "#{latitude}"
+                geo_pre.lng = "#{longtitude}"
                 npoint += 1;
             }
         }
@@ -61,14 +72,23 @@ def writeFunctionGraph(fout)
     fout.puts "    var chart = new google.visualization.ChartWrapper({"
     fout.puts "        chartType: 'LineChart',"
     fout.puts "        containerId: 'graph_ele',"
-    fout.puts "        options: chart_option,"
+    #    fout.puts "        options: chart_option,"
+    fout.puts "        view: {'columns': [0,1]}"
     fout.puts "    });"
+    fout.puts "    chart.setOption('vAxis.title', 'Elevation (m)');"
+    fout.puts "    var chart_distance = new google.visualization.ChartWrapper({"
+    fout.puts "        chartType: 'LineChart',"
+    fout.puts "        containerId: 'graph_distance',"
+    #    fout.puts "        options: chart_option,"
+    fout.puts "        view: {'columns': [0,2]}"
+    fout.puts "    });"
+    fout.puts "    chart_distance.setOption('vAxis.title', 'Distance (km)');"
     fout.puts "    var control = new google.visualization.ControlWrapper({"
     fout.puts "        controlType: 'ChartRangeFilter',"
     fout.puts "        containerId: 'control_ele',"
     fout.puts "        options: control_option,"
     fout.puts "    });"
-    fout.puts "    dashboard.bind(control, chart);"
+    fout.puts "    dashboard.bind(control, [chart, chart_distance]);"
     fout.puts "    dashboard.draw(data);"
     fout.puts "  }"
     fout.puts "}"
@@ -80,7 +100,7 @@ end
 def writeHTMLGraph(fout)
     content = ""
     fout.puts "function writeHTMLGraph(){"
-    content += "<h2>Graph</h2><div id=\"dashboard_ele\" style=\"width: 0px; height: 0px\"></div><div id=\"graph_ele\" style=\"width: 800px; height: 600px\"></div><div id=\"control_ele\" style=\"width: 800px; height: 100px\"></div>"
+    content += "<h2>Graph</h2><div id=\"dashboard_ele\" style=\"width: 0px; height: 0px\"></div><div id=\"graph_ele\" style=\"width: 800px; height: 200px\"></div><div id=\"graph_distance\" style=\"width: 800px; height: 200px\"></div><div id=\"control_ele\" style=\"width: 800px; height: 100px\"></div>"
     fout.puts "  document.getElementById(\"graph\").innerHTML='#{content}';"
     fout.puts "}"
     fout.puts ""

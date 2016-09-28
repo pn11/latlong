@@ -6,11 +6,6 @@ function getGraphOptions(){
             series:{
                 0:{pointShape: 'circle'}
             },
-            vAxes:{
-                0:{
-                    title: 'Elevation (m)',
-                }
-            },
             explorer:{
                 maxZoomIn: 0.1,
                 maxZoomOut: 10,
