@@ -40,14 +40,13 @@ def makeGraph(in_file_name)
                 if ele != nil; ele = ele.text; else ele = "0"; end
                 unixtime = time2unix(time)
                 time = utc2jst(time)
+                velocity = 0.0
                 if npoint > 0
                     distance_tmp = geo_current.distance_to(geo_pre, {:units => :kms})
                     distance += distance_tmp
                     time_diff = unixtime - unixtime_pre
                     if time_diff != 0
                        velocity = distance_tmp / (time_diff / 60.0 / 60.0)
-                    else
-                        velocity = 0.0
                     end
                 end
                 fout.puts "    [new Date('#{time}'), #{ele}, #{distance}, #{velocity}],"
