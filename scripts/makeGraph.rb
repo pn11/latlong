@@ -3,6 +3,8 @@
 require "rexml/document"
 require "utc2jst.rb"
 require "geokit" #http://www.rubydoc.info/github/geokit/geokit/master/Geokit
+require "time2unix.rb"
+
 
 def makeGraph(in_file_name)
     puts "makeGraph #{in_file_name}"
@@ -19,6 +21,7 @@ def makeGraph(in_file_name)
     distance = 0.0
     geo_current = Geokit::LatLng.new()
     geo_pre = Geokit::LatLng.new()
+    unixtime_pre = "0"
 
     fout.puts "function array_ele(){"
     fout.puts "  var var_array = ["
@@ -31,17 +34,28 @@ def makeGraph(in_file_name)
                 latitude = trkpt.attributes.get_attribute("lat")
                 geo_current.lat = "#{latitude}"
                 geo_current.lng = "#{longtitude}"
-                if (npoint > 0); distance += geo_current.distance_to(geo_pre, {:units => :kms}); end
                 time = trkpt.elements["time"]
                 ele = trkpt.elements["ele"]
                 if time != nil; time = time.text; else time = "0"; end
                 if ele != nil; ele = ele.text; else ele = "0"; end
+                unixtime = time2unix(time)
                 time = utc2jst(time)
-                fout.puts "    [new Date('#{time}'), #{ele}, #{distance}],"
+                if npoint > 0
+                    distance_tmp = geo_current.distance_to(geo_pre, {:units => :kms})
+                    distance += distance_tmp
+                    time_diff = unixtime - unixtime_pre
+                    if time_diff != 0
+                       velocity = distance_tmp / (time_diff / 60.0 / 60.0)
+                    else
+                        velocity = 0.0
+                    end
+                end
+                fout.puts "    [new Date('#{time}'), #{ele}, #{distance}, #{velocity}],"
                 #puts "distance = #{distance}"
                 ## end of process
                 geo_pre.lat = "#{latitude}"
                 geo_pre.lng = "#{longtitude}"
+                unixtime_pre = unixtime
                 npoint += 1;
             }
         }
@@ -69,6 +83,7 @@ def writeFunctionGraph(fout)
     fout.puts "    var chart_option = getGraphOptions();"
     fout.puts "    var control_option = getControlOptions();"
     fout.puts "    var data = array_ele();"
+
     fout.puts "    var chart = new google.visualization.ChartWrapper({"
     fout.puts "        chartType: 'LineChart',"
     fout.puts "        containerId: 'graph_ele',"
@@ -76,6 +91,7 @@ def writeFunctionGraph(fout)
     fout.puts "        view: {'columns': [0,1]}"
     fout.puts "    });"
     fout.puts "    chart.setOption('vAxis.title', 'Elevation (m)');"
+
     fout.puts "    var chart_distance = new google.visualization.ChartWrapper({"
     fout.puts "        chartType: 'LineChart',"
     fout.puts "        containerId: 'graph_distance',"
@@ -83,12 +99,21 @@ def writeFunctionGraph(fout)
     fout.puts "        view: {'columns': [0,2]}"
     fout.puts "    });"
     fout.puts "    chart_distance.setOption('vAxis.title', 'Distance (km)');"
+
+    fout.puts "    var chart_velocity = new google.visualization.ChartWrapper({"
+    fout.puts "        chartType: 'LineChart',"
+    fout.puts "        containerId: 'graph_velocity',"
+    #    fout.puts "        options: chart_option,"
+    fout.puts "        view: {'columns': [0,3]}"
+    fout.puts "    });"
+    fout.puts "    chart_velocity.setOption('vAxis.title', 'Velocity (km/h)');"
+
     fout.puts "    var control = new google.visualization.ControlWrapper({"
     fout.puts "        controlType: 'ChartRangeFilter',"
     fout.puts "        containerId: 'control_ele',"
     fout.puts "        options: control_option,"
     fout.puts "    });"
-    fout.puts "    dashboard.bind(control, [chart, chart_distance]);"
+    fout.puts "    dashboard.bind(control, [chart, chart_distance, chart_velocity]);"
     fout.puts "    dashboard.draw(data);"
     fout.puts "  }"
     fout.puts "}"
@@ -100,7 +125,7 @@ end
 def writeHTMLGraph(fout)
     content = ""
     fout.puts "function writeHTMLGraph(){"
-    content += "<h2>Graph</h2><div id=\"dashboard_ele\" style=\"width: 0px; height: 0px\"></div><div id=\"graph_ele\" style=\"width: 800px; height: 200px\"></div><div id=\"graph_distance\" style=\"width: 800px; height: 200px\"></div><div id=\"control_ele\" style=\"width: 800px; height: 100px\"></div>"
+    content += "<h2>Graph</h2><div id=\"dashboard_ele\" style=\"width: 0px; height: 0px\"></div><div id=\"graph_ele\" style=\"width: 800px; height: 200px\"></div><div id=\"graph_distance\" style=\"width: 800px; height: 200px\"></div><div id=\"graph_velocity\" style=\"width: 800px; height: 200px\"></div><div id=\"control_ele\" style=\"width: 800px; height: 100px\"></div>"
     fout.puts "  document.getElementById(\"graph\").innerHTML='#{content}';"
     fout.puts "}"
     fout.puts ""
