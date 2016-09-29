@@ -1,6 +1,6 @@
 function array_ele(){
   var var_array = [
-    ['Time', 'Elevation (m)', 'Distance (km)'],
+    ['Time', 'Elevation (m)', 'Distance (km)', 'Velocity (km/h)'],
     [new Date('2015/11/03 01:07:32'), 21, 0.0, 0.0],
     [new Date('2015/11/03 04:52:55'), -5, 108.72707311557495, 28.944573187611468],
     [new Date('2015/11/03 05:02:54'), 67, 109.1819323839535, 2.733711796598934],
