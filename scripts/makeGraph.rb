@@ -25,7 +25,7 @@ def makeGraph(in_file_name)
 
     fout.puts "function array_ele(){"
     fout.puts "  var var_array = ["
-    fout.puts "    ['Time', 'Elevation (m)', 'Distance (km)'],"
+    fout.puts "    ['Time', 'Elevation (m)', 'Distance (km)', 'Velocity (km/h)'],"
     gpx = doc.elements["/gpx"]
     gpx.elements.each("trk"){|trk|
         trk.elements.each("trkseg"){|trkseg|
